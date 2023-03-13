@@ -29,11 +29,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ### Deployed Link
-[Live](https://tanvirpi.github.io/XWeather/)
+[Live](https://tanvirpi.github.io/Professional_Portfolio/)
 
 ### Screenshot
 
-![Image](https://github.com/Tanvirpi/Timed-Quiz/blob/main/assets/Screenshot.png)
+![Image](https://github.com/Tanvirpi/Professional_Portfolio/blob/main/assets/Screenshot.png)
 
 
 ### References
